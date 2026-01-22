@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Airflow
+logs/
+airflow.cfg
+
+# ML / Data
+data/
+mlruns/
+models/
+*.h5
+*.ckpt
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
