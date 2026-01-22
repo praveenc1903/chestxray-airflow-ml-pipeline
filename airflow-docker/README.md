@@ -27,6 +27,9 @@ This project demonstrates **MLOps fundamentals** including workflow orchestratio
 - Follow best practices used in real-world MLOps systems
 
 ---
+## 🔁 Airflow DAG Graph View
+
+![Airflow DAG Graph](cnn_chest_xray_pipeline-graph.png)
 
 
 ---
